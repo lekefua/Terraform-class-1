@@ -1,4 +1,7 @@
 locals {
- service_name = "forum"
-owner         = "community Team"
-lengthofService_name=length(local.service_name)
+ 
+  service_name = "forum"
+  owner = "Community Team"
+  lengthofservice_name=length(local.service_name)
+ 
+}
